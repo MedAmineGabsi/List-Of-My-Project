@@ -17,4 +17,5 @@ These are my little project on github.
 
 ### T
 
-- <a href = "https://github.com/MedAmineGabsi/todo-App">To-Do App Classical components</a>
+- <a href = "https://github.com/MedAmineGabsi/todo-App">To-Do App Classical Components</a>
+- <a href = "https://github.com/MedAmineGabsi/todo-List">To-Do App Functional Components</a>
