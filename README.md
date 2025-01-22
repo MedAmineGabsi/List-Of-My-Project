@@ -12,6 +12,9 @@ These are my little project on github.
 - <a href = "https://github.com/MedAmineGabsi/CharCounter">CharCounter</a>
 - <a href="https://github.com/MedAmineGabsi/Counterdown">CountDown</a>
 
+### Find Your Cause
+- <a href ="https://github.com/MedAmineGabsi/FindYourCause">Find Your Cause (A project made of UOttahack7 using gadget)</a>
+
 ### I
 
 - <a href="https://github.com/MedAmineGabsi/imageChanger">Image Changer</a>
