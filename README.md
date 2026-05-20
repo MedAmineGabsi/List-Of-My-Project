@@ -1,5 +1,11 @@
 ## Information 
 
+### CheeseECSE Manager
+- <a href ="https://github.com/MedAmineGabsi/CheeseECSE-Manager">CheeseECSE Manager</a>
+
+### FashionECSE
+- <a href ="https://github.com/MedAmineGabsi/FashionECSE">FashionECSE</a>
+
 ### Scoop AI ChatBot
 - <a href ="https://github.com/MedAmineGabsi/ScoopChatBot">Scoop ChatBot</a>
 
